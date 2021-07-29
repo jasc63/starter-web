@@ -10,7 +10,8 @@ This is een example showin the different parts of the git repository and various
 
 This is a sample website with plenty of examples for Git
 
-This line is for rebasing example
+This line is for rebasing example.
+More changes after rebase
 
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local 
