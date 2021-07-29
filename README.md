@@ -12,7 +12,9 @@ This is a sample website with plenty of examples for Git
 
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local 
+
 ## How to contribute
+Please fork thid repository and the issue a Pull Request for review
 
 ### Copyright
 2021 Git Training 
